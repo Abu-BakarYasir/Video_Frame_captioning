@@ -1,0 +1,9 @@
+#requirements.txt
+python-dotenv
+#opencv-python --use pip install opencv-python-headless for deployement
+Pillow
+requests
+streamlit
+transformers 
+torch
+opencv-python-headless
