@@ -102,7 +102,7 @@ GROQ_API_KEY=your_api_key_here
 
 **Abu Bakar**
 Computer Engineer @ COMSATS Lahore
-Full Stack Developer | AI Enthusiast
+Full Stack Developer 
 [GitHub](https://github.com/Abu-BakarYasir)
 
 ---
